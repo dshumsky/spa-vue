@@ -1,3 +1,5 @@
+// https://cdn.jsdelivr.net/npm/vue@latest/dist/vue.esm.browser.min.js
+
 /*!
  * Vue.js v2.6.6
  * (c) 2014-2019 Evan You

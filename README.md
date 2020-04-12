@@ -1,8 +1,9 @@
-# VueSpaNONODE
-This is a single-page application that uses Vue and Vue Router. It uses ES6 imports to render components and templates. No Node is required. Just git clone and serve statically. 
+### Vue Single-Page application
 
-You can also select "Use this Template" in order to create a new single-page application that you can build upon. You can write code in any environment that has a static web-server. There are no dependencies.
+This is a single-page application that uses Vue and Vue Router.
+Based on <https://dev.to/arswaw/create-a-lightweight-componentized-spa-without-node-569j>
 
-The motivation for this project and the tutorial to build this yourself is here:
-
-https://dev.to/arswaw/create-a-lightweight-componentized-spa-without-node-569j
+#### Libs
+```bash
+wget https://cdnjs.cloudflare.com/ajax/libs/vue-router/3.0.2/vue-router.js 
+``` 
